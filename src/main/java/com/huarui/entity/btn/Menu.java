@@ -1,4 +1,4 @@
-package com.huarui.entity;
+package com.huarui.entity.btn;
 
 /**
  * Created by lihui on 2018/10/20.

@@ -1,6 +1,6 @@
 package com.huarui.controller;
 
-import com.huarui.entity.Menu;
+import com.huarui.entity.btn.Menu;
 import com.huarui.utils.MenuUtil;
 import net.sf.json.JSONObject;
 import org.springframework.http.ResponseEntity;

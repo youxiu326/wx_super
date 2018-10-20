@@ -1,9 +1,9 @@
 package com.huarui.utils;
 
-import com.huarui.entity.Button;
-import com.huarui.entity.ClickButton;
-import com.huarui.entity.Menu;
-import com.huarui.entity.ViewButton;
+import com.huarui.entity.btn.Button;
+import com.huarui.entity.btn.ClickButton;
+import com.huarui.entity.btn.Menu;
+import com.huarui.entity.btn.ViewButton;
 
 /**
  * Created by lihui on 2018/10/20.
